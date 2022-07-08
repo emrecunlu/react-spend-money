@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Big Mac",
+        "price": 2,
+        "avatar": "https://neal.fun/spend/images/big-mac.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Flip Flops",
+        "price": 3,
+        "avatar": "https://neal.fun/spend/images/flip-flops.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Coca-Cola Pack",
+        "price": 5,
+        "avatar": "https://neal.fun/spend/images/coca-cola-pack.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Movie Ticket",
+        "price": 200,
+        "avatar": "https://neal.fun/spend/images/movie-ticket.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Book",
+        "price": 400,
+        "avatar": "https://neal.fun/spend/images/book.jpg"
+    },
+    {
+        "id": 6,
+        "title": "NBA Team",
+        "price": 2120000000,
+        "avatar": "https://neal.fun/spend/images/nba-team.jpg"
+    }
+]
